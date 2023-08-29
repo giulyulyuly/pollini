@@ -1,0 +1,164 @@
+/* palette */
+
+body {
+  
+    background: #ffffc1 0%;
+   
+    
+  }
+
+.bodi {
+  margin-left: 6%;
+    margin-right: 6%;
+
+}
+
+img {
+    width: 49%;
+    border-radius: 10px;
+    margin-top: 1%;
+    
+   
+}
+
+a 
+{
+	text-decoration: none; 
+	font-weight: normal;
+	color: #000000;
+  font-family: Times, serif;
+  font-size: larger;
+
+  
+}
+
+
+
+.pollini {
+  font-size: 300%;
+  display: flex;
+  align-items: center;  
+  justify-content: center;
+  font-weight:1000; 
+  color: #386641;
+  font-family: 'Times New Roman';
+  margin-top: -10%;
+  margin-bottom: -5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  }
+
+.contenitoretarassaco {
+    background-color: #BFCE98;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-style:groove;
+  border-radius: 20px;
+  box-shadow: 4px 4px 6px #14080E;
+
+}
+
+
+
+.contenitorelimonium {
+    background-color:  #B1C38F;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  border-style:groove;
+  margin-top: 3%;
+  border-radius:20px;
+  box-shadow: 4px 4px 6px #14080E;
+}
+
+
+.contenitoreammi {
+  background-color:  #A2B886;
+display: flex;
+align-items: center;
+justify-content: center;
+
+border-style:groove;
+margin-top: 3%;
+border-radius:20px;
+box-shadow: 4px 4px 6px #14080E;
+}
+
+.contenitorelavanda {
+  background-color:  #94AD7D;
+display: flex;
+align-items: center;
+justify-content: center;
+
+border-style:groove;
+margin-top: 3%;
+border-radius:20px;
+box-shadow: 4px 4px 6px #14080E;
+}
+
+.contenitoreclarkia {
+  background-color:  #85A173;
+display: flex;
+align-items: center;
+justify-content: center;
+
+border-style:groove;
+margin-top: 3%;
+border-radius:20px;
+box-shadow: 4px 4px 6px #14080E;
+}
+
+
+.contenitoreamaranto {
+  background-color:  #77966A;
+display: flex;
+align-items: center;
+justify-content: center;
+
+border-style:groove;
+margin-top: 3%;
+border-radius:20px;
+box-shadow: 4px 4px 6px #14080E;
+}
+
+.contenitoremargherita {
+  background-color:  #688B60;
+display: flex;
+align-items: center;
+justify-content: center;
+
+border-style:groove;
+margin-top: 3%;
+border-radius:20px;
+box-shadow: 4px 4px 6px #14080E;
+}
+
+.contenitoreroryppa {
+  background-color:  #598057;
+display: flex;
+align-items: center;
+justify-content: center;
+
+border-style:groove;
+margin-top: 3%;
+border-radius:20px;
+box-shadow: 4px 4px 6px #14080E;
+}
+
+.contenitoretrifolium {
+  background-color:  #4A744D;
+display: flex;
+align-items: center;
+justify-content: center;
+
+border-style:groove;
+margin-top: 3%;
+border-radius:20px;
+box-shadow: 4px 4px 6px #14080E;
+}
+
+
+
